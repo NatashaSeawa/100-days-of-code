@@ -7,8 +7,8 @@
 April 22, 2017
 
 ## Additional Rules (modified, as I am learning to code)
-1. I will update the (Log)[log.md] with the day's progress and, if applicable, provide a link so that others can see my progress.
-2. I will record my time spent doing tutorials, online courses and other similar resources, as I have just started learning to code. Read [FAQ](FAQ.md))
+1. I will update the [Log](log.md) with the day's progress and, if applicable, provide a link so that others can see my progress.
+2. I will record my time spent doing tutorials, online courses and other similar resources, as I have just started learning to code. Read [FAQ](FAQ.md)
 
 
 ## Ideas to make this challenge more effective
